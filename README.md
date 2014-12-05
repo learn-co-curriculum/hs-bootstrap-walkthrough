@@ -4,24 +4,24 @@ languages: html, css
 type: walkthrough
 ---
 ##You Bet Your Bootstrap!
-It's pretty easy to soup up your site with some Bootstrap. This walkthrough will take you through the necessary steps to integrate Bootsrap and get your site looking slick and professional. 
+It's pretty easy to soup up your site with some Bootstrap. This walkthrough will take you through the necessary steps to integrate Bootstrap to get your site looking slick and professional. 
 
 **1. Set Up Your Bare Bones Site** <br>
 Start by creating an `index.html` site. Copy the following HTML code into your `index.html` document:
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  <title>Steph's Teenage Mutant Ninja Turtle Fan Site</title>
-  
-</head>
-<body>
-  
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Steph's Teenage Mutant Ninja Turtle Fan Site</title>
+    
+  </head>
+  <body>
+    
+  </body>
 </html>
 ```
 **2. Include Bootstrap CSS** <br>
