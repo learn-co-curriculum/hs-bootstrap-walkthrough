@@ -129,3 +129,6 @@ Here's a standard table that has information about the different ninja turtles. 
 ```
 ## Code Recap
 You can see all the code for the site in the `index.html` file included in this repository. This is a very simple implementation of Bootstrap's features. Have fun exploring the different Bootstrap elements and incorporating them into your projects. Remember, the key to Bootstrapping your site is adding the Bootstrap classes to HTML tags that enclose your content.
+
+## Resources
++ <a href="http://getbootstrap.com/">Twitter Bootstrap</a>: documentation
