@@ -30,7 +30,7 @@ Within the `<head>` tag, under the `<title>` tag, copy this link to the Bootstra
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 ```
 **3. Include jQuery and Bootstrap JavaScript Libraries** <br>
-Include the source code for jQuery and Bootstrap Javascript *right before the closing </body> tag**. This code gives your site cool animations and added functionalities to make for a better user experience. 
+Include the source code for jQuery and Bootstrap Javascript **right before the closing** `</body>` **tag**. This code gives your site cool animations and added functionalities to make for a better user experience. 
 ```html
 <!-- Bootstrap core JavaScript
 ================================================== -->
@@ -40,7 +40,7 @@ Include the source code for jQuery and Bootstrap Javascript *right before the cl
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 ```
 **4. Add Internet Explorer support** <br>
-There are a lot of different browsers people use nowadays, so sometimes we need to include extra code to make sure our site displays correctly on every browser. Here's what you need to to add to make sure everything functions properly if the user is on Internet Explorer. Add it to the **bottom of your `<head>` section before the closing `</head>` tag**.
+There are a lot of different browsers people use nowadays, so sometimes we need to include extra code to make sure our site displays correctly on every browser. Here's what you need to to add to make sure everything functions properly if the user is on Internet Explorer. Add it to the **bottom of your** `<head>` **section before the closing** `</head>` **tag**.
 ```html
 <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -48,7 +48,7 @@ There are a lot of different browsers people use nowadays, so sometimes we need 
     <![endif]-->
 ```
 **5. Set Up Your Container** <br>
-To make sure we're assigning the right styles to the right content, it's important to wrap content in containers. Web developers often use `<div>` tags to draw an imaginary box around a chunk of HTML. This defines a section of code separate from the rest of the code. Our first container is going to wrap up all the code in the body. So **right after your opening `<body>` tag, paste the following code**. Make sure **Everything** you add to the body after this point goes inside this tag!
+To make sure we're assigning the right styles to the right content, it's important to wrap content in containers. Web developers often use `<div>` tags to draw an imaginary box around a chunk of HTML. This defines a section of code separate from the rest of the code. Our first container is going to wrap up all the code in the body. So **right after your opening** `<body>` **tag**, paste the following code. Make sure **Everything** you add to the body after this point goes inside this tag!
 ```html
 <div class="container">
   <!-- MAKE SURE EVERYTHING YOU WANT FOR YOUR BODY GOES INSIDE THIS TAG! -->
