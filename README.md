@@ -1,7 +1,7 @@
 ---
-tags: cli, kids, intro
-languages: CLI
-type: intro
+tags: bootstrap, html, css, kids, intro
+languages: html, css
+type: walkthrough
 ---
 ##You Bet Your Bootstrap!
 It's pretty easy to soup up your site with some Bootstrap. This walkthrough will take you through the necessary steps to integrate Bootsrap and get your site looking slick and professional. 
