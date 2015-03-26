@@ -4,7 +4,7 @@ languages: html, css
 type: walkthrough
 ---
 ##You Bet Your Bootstrap!
-It's pretty easy to soup up your site with some Bootstrap. This walkthrough will take you through the necessary steps to integrate Bootstrap to get your site looking slick and professional. 
+It's pretty easy to soup up your site with some Bootstrap. This walkthrough will take you through the necessary steps to integrate Bootstrap to get your site looking slick and professional.
 
 **1. Set Up Your Bare Bones Site**
 Start by creating an `index.html` site. Copy the following HTML code into your `index.html` document:
@@ -15,12 +15,12 @@ Start by creating an `index.html` site. Copy the following HTML code into your `
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     <title>Steph's Teenage Mutant Ninja Turtle Fan Site</title>
-    
+
   </head>
   <body>
-    
+
   </body>
 </html>
 ```
@@ -30,7 +30,7 @@ Within the `<head>` tag, under the `<title>` tag, copy this link to the Bootstra
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 ```
 **3. Include jQuery and Bootstrap JavaScript Libraries**
-Include the source code for jQuery and Bootstrap Javascript **right before the closing** `</body>` **tag**. This code gives your site cool animations and added functionalities to make for a better user experience. 
+Include the source code for jQuery and Bootstrap Javascript **right before the closing** `</body>` **tag**. This code gives your site cool animations and added functionalities to make for a better user experience.
 ```html
 <!-- Bootstrap core JavaScript
 ================================================== -->
@@ -61,7 +61,7 @@ Let's add a navigation bar first. A navigation bar is important to keep your use
 ```html
 <div class="navbar navbar-default navbar-static-top" role="navigation">
     <div class="container">
- 
+
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
@@ -71,7 +71,7 @@ Let's add a navigation bar first. A navigation bar is important to keep your use
             </button>
             <a class="navbar-brand" href="index.html">Home</a>
         </div>
- 
+
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li class="active">
@@ -85,7 +85,7 @@ Let's add a navigation bar first. A navigation bar is important to keep your use
                 </li>
             </ul>
         </div><!--/.nav-collapse -->
- 
+
     </div>
 </div>
 ```
@@ -112,17 +112,17 @@ Here's a standard table that has information about the different ninja turtles. 
   </tr>
   <tr>
     <td>Leonardo</td>
-    <td>Blue</td> 
+    <td>Blue</td>
     <td>Courageous leader. Oldest child syndrome.</td>
   </tr>
   <tr>
     <td>Raphael</td>
-    <td>Red</td> 
+    <td>Red</td>
     <td>The bad boy. Very New York attitude.</td>
   </tr>
   <tr>
     <td>Donatello</td>
-    <td>Purple</td> 
+    <td>Purple</td>
     <td>Techy and smart. Probs a good programmer.</td>
   </tr>
 </table>
@@ -132,3 +132,4 @@ You can see all the code for the site in the `index.html` file included in this 
 
 ## Resources
 + <a href="http://getbootstrap.com/">Twitter Bootstrap</a>: documentation
++ <a href="http://bootstrapbay.com/blog/bootstrap-3-carousel-tutorial/">Bootstrap Carousel Tutorial</a>
