@@ -1,8 +1,4 @@
----
-tags: bootstrap, html, css, kids, intro
-languages: html, css
-type: walkthrough
----
+
 ##You Bet Your Bootstrap!
 It's pretty easy to soup up your site with some Bootstrap. This walkthrough will take you through the necessary steps to integrate Bootstrap to get your site looking slick and professional.
 
