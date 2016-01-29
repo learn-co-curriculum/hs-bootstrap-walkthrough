@@ -130,4 +130,4 @@ You can see all the code for the site in the `index.html` file included in this 
 + <a href="http://getbootstrap.com/">Twitter Bootstrap</a>: documentation
 + <a href="http://bootstrapbay.com/blog/bootstrap-3-carousel-tutorial/">Bootstrap Carousel Tutorial</a>
 
-<a href='https://learn.co/lessons/hs-bootstrap-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-bootstrap-walkthrough' title='You Bet Your Bootstrap!'>You Bet Your Bootstrap!</a> on Learn.co and start learning to code for free.</p>
